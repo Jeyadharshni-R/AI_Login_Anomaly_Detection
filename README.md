@@ -57,4 +57,6 @@ python anomaly_detection.py
  Author
 Name: Jeyadharshni R
 Role: AI Intern | Aspiring SOC Analyst
+[View Code](anomaly_detection.py)
+![Workflow Diagram](workflow_diagram.png)
 
