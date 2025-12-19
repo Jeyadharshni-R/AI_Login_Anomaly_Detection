@@ -1,3 +1,6 @@
+<img width="1914" height="1023" alt="png" src="https://github.com/user-attachments/assets/c6b89e16-6ebc-4269-b149-e3fa9a34d26c" />
+<img width="1914" height="1023" alt="png" src="https://github.com/user-attachments/assets/54fedbb9-dff8-408d-b8d1-a9481ce42f9d" />
+[New Text Document.txt](https://github.com/user-attachments/files/24251375/New.Text.Document.txt)
 1. PROJECT TITLE
 AI-Based Login Anomaly Detection Using Artificial Intelligence
 2. PROJECT SUMMARY
