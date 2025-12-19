@@ -1,6 +1,3 @@
-<img width="1914" height="1023" alt="png" src="https://github.com/user-attachments/assets/c6b89e16-6ebc-4269-b149-e3fa9a34d26c" />
-<img width="1914" height="1023" alt="png" src="https://github.com/user-attachments/assets/54fedbb9-dff8-408d-b8d1-a9481ce42f9d" />
-[New Text Document.txt](https://github.com/user-attachments/files/24251375/New.Text.Document.txt)
 1. PROJECT TITLE
 AI-Based Login Anomaly Detection Using Artificial Intelligence
 2. PROJECT SUMMARY
@@ -26,5 +23,7 @@ The project can be enhanced by integrating real-time log monitoring, IP address 
 10. AUTHOR DETAILS
 Name: Jeyadharshni R
 Role: AI Intern | Aspiring SOC Analyst
+<img width="1914" height="1023" alt="png" src="https://github.com/user-attachments/assets/2ff59884-ceae-4665-9600-85aaa3073b34" />
+[New Text Document.txt](https://github.com/user-attachments/files/24251411/New.Text.Document.txt)
 
 
