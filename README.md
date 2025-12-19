@@ -1,3 +1,5 @@
+[workflow_diagram.pdf](https://github.com/user-attachments/files/24251488/workflow_diagram.pdf)
+[anomaly_detection.py](https://github.com/user-attachments/files/24251476/anomaly_detection.py)
 1. PROJECT TITLE
 AI-Based Login Anomaly Detection Using Artificial Intelligence
 2. PROJECT SUMMARY
