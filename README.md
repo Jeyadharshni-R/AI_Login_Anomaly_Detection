@@ -1,4 +1,15 @@
 # AI-Based Login Anomaly Detection Using Artificial Intelligence
+## Table of Contents
+- [Project Summary](#project-summary)
+- [Problem Statement](#problem-statement)
+- [Solution Overview](#solution-overview)
+- [Technologies Used](#technologies-used)
+- [Implementation](#implementation-overview)
+- [Output & Result](#output--result)
+- [SOC Relevance](#soc-relevance)
+- [Future Enhancements](#future-enhancements)
+- [How to Run the Project](#how-to-run-the-project)
+- [Author](#author)
 
 ##  Project Summary
 This project focuses on detecting suspicious login activities using Artificial Intelligence techniques. The system analyzes user login behavior such as login time and failed login attempts to identify abnormal patterns. An unsupervised machine learning algorithm, Isolation Forest, is used to detect anomalies without requiring labeled attack data. The project demonstrates a practical application of AI in cyber security and is relevant to Security Operations Center (SOC) operations for threat detection and monitoring.
@@ -57,6 +68,13 @@ python anomaly_detection.py
  Author
 Name: Jeyadharshni R
 Role: AI Intern | Aspiring SOC Analyst
-[View Code](anomaly_detection.py)
+##  Project Code
+
+You can view the full code here:  
+ [Open anomaly_detection.py](./anomaly_detection.py)
+
+##  Workflow Diagram
 ![Workflow Diagram](workflow_diagram.png)
+## Sample Output
+![Output Screenshot](output.png)
 
