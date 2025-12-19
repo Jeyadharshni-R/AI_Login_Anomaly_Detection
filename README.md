@@ -1,5 +1,3 @@
-[workflow_diagram.pdf](https://github.com/user-attachments/files/24251488/workflow_diagram.pdf)
-[anomaly_detection.py](https://github.com/user-attachments/files/24251476/anomaly_detection.py)
 1. PROJECT TITLE
 AI-Based Login Anomaly Detection Using Artificial Intelligence
 2. PROJECT SUMMARY
@@ -26,6 +24,8 @@ The project can be enhanced by integrating real-time log monitoring, IP address 
 Name: Jeyadharshni R
 Role: AI Intern | Aspiring SOC Analyst
 <img width="1914" height="1023" alt="png" src="https://github.com/user-attachments/assets/2ff59884-ceae-4665-9600-85aaa3073b34" />
+[anomaly_detection.py](https://github.com/user-attachments/files/24251476/anomaly_detection.py)
+[workflow_diagram.pdf](https://github.com/user-attachments/files/24251488/workflow_diagram.pdf)
 [New Text Document.txt](https://github.com/user-attachments/files/24251411/New.Text.Document.txt)
 
 
